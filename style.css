@@ -179,7 +179,7 @@ img {
   nav {
     flex-direction: column;
     align-items: center;
-    gap: 10px;
+    gap: 5px;
   }
 
   .logo {
@@ -208,7 +208,7 @@ img {
 
   .hero-img {
     width: 100%;
-    height: 350px;
+    height: 380px;
     margin-top: 20px;
     transform: rotate(0deg);
   }
@@ -224,7 +224,7 @@ img {
   }
 
   .product-img {
-    height: 100px;
+    height: 150px;
   }
 
 
